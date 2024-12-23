@@ -17,14 +17,14 @@ and this much the sales of this Quarter and we are growing with (xyz) this perce
 - Step 2 : Open power query editor & perform transformation like in this case USD and INR value is having duplicates rows
 - Step 3 : Slicer Chart is created for for year wise data selection. 
  
- - Step 17 : For showing revenue and sales Quantity Base Measures are created.
+ - Step 3  For showing revenue and sales Quantity Base Measures are created.
  
     
- - Step 18 : A revenue line chart is used to show the number of sales increasing and decreasing per year.
+ -  A revenue line chart is used to show the number of sales increasing and decreasing per year.
  
  ![Snap_1](https://github.com/user-attachments/assets/f9f62353-21e3-4711-84a7-26533ed3a883)
  
- - Step 18 : The report was then published to Power BI Service.
+ - The report was then published to Power BI Service.
 
 
 # Insights
