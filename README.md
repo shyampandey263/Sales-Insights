@@ -28,5 +28,4 @@ and this much the sales of this Quarter and we are growing with (xyz) this perce
 
 
 # Insights
-
-A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+The Sales Director now able to recognise the area their sales are declining and act accrodingly.
